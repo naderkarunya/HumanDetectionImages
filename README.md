@@ -1,4 +1,6 @@
  Human Detection Image Dataset
+
+ 
 📸 Image Collection
 The images in this dataset were collected as part of my PhD research in Artificial Intelligence, focusing on human detection. The dataset consists of a diverse set of images containing humans in various environments, poses, and lighting conditions.
 
